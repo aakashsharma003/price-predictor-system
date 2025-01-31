@@ -1,0 +1,6 @@
+.DS_Store
+mlruns/
+data/
+extracted_data/
+pipelines/
+steps/
